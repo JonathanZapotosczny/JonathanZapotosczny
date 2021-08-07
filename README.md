@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JonathanZapotosczny
+- 👀 I’m interested in UI/UX Design
+- 🌱 I’m currently learning Systems Analysis and Development
+- 📫 How to reach me JonathanGM.HD@gmail.com
