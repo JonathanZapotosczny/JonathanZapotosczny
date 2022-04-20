@@ -1,5 +1,28 @@
-<p align="center"><img width="100%"src="https://i.ibb.co/59Qq2X5/Jonathan.gif"></p>
+<div align="center">
+  <h2> 
+    Olá! eu sou o Jonathan Zapotosczny, desenvolvedor e futuro UX/UI Designer!
+  <h2\>
+</div>
 
-[![card](https://github-readme-stats.vercel.app/api?username=JonathanZapotosczny&theme=default&show_icons=true)](https://github.com/JonathanZapotosczny/)
-<br>
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanZapotosczny&hide=html&layout=compact=true&theme=)](https://github.com/JonathanZapotosczny/)
+<div align="center">
+  <a href="https://github.com/jonathanzapotosczny">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathanzapotosczny&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanzapotosczny&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  ##
+  
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Jonathan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Jonathan-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Jonathan-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Jonathan-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="Jonathan-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+</div>
+  
+  ##
+ 
+<div align="center">
+  <a href="https://www.linkedin.com/in/jonathanzapotosczny/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:jonathangm.hd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
