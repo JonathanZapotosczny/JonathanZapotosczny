@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://i.imgur.com/ygmVOHO.png"  />
+  <img height="200" src="https://i.imgur.com/ygmVOHO.png"  />
 </div>
 
 ###
@@ -11,11 +11,11 @@
 
 ###
 
-<h2 align="left">Tecnologias 💻</h2>
+<h2 align="center">Tecnologias 💻</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
@@ -24,11 +24,11 @@
 
 ###
 
-<h2 align="left">Estudos 💻</h2>
+<h2 align="center">Estudos 💻</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="52" alt="laravel logo"  />
@@ -36,11 +36,11 @@
 
 ###
 
-<h2 align="left">Softwares 💻</h2>
+<h2 align="center">Softwares 💻</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="photoshop logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
@@ -49,11 +49,11 @@
 
 ###
 
-<h2 align="left">Redes Sociais ✏️</h2>
+<h2 align="center">Redes Sociais ✏️</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/jonathanzapotosczny/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
   </a>
